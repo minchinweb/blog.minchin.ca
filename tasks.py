@@ -3,6 +3,15 @@ from pathlib import Path
 
 from invoke import run, task
 
+try:
+    # changing the import name doesn't seem to change the name of the task
+    # as regiatered with *invoke*
+    from minchin.pelican.readers.microblog.tasks import new_upost
+except ImportError:
+    pass
+
+# import minchin.pelican.readers.microblog.tasks
+
 # from fabric.api import *
 # import fabric.contrib.project as project
 # import os
