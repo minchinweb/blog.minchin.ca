@@ -1,6 +1,6 @@
 title: Sea of Tranquility: A Book Review
 date: 2025-03-16 12:31:00 -0700
-modified: 2025-04-26 8:57:00 -0600
+modified: 2025-05-19 15:57:51 -0600
 tags: book review, Emily St John Mandel, time travel, Covid
 image: images/2025/sea-of-tranquility.jpg
 slug: sea-of-tranquility
@@ -11,7 +11,7 @@ Tranquility* by Emily St John Mandel. Overall, it was a delightful, light read.
 The audiobook came in at just under 6 hours.
 
 I discovered after I had listened to the story that the author is Canadian. The
-story's "not Americism" shows itself in both direct and more subtle ways. For
+story's "not Americanism" shows itself in both direct and more subtle ways. For
 one, the story opens with a young British man in 1912 who, exiled from polite
 society, goes to Canada: first to Halifax and then to Victoria, and then up the
 west coast of Vancover Island (rather than, say, an American from New York
@@ -25,7 +25,7 @@ touches on time travel (that I'm a bit of a sucker for), but for all it digs
 into *how* the science works, it may as well be magic. But overall, it adds
 well to the story and drives it forward, and is presented well.
 
-The last piece that stood out to be was the despiction of the Covid pandemic.
+The last piece that stood out to be was the description of the Covid pandemic.
 True, this part of the story is set several hundred years in the future, but
 published in 2022 it is truly is a surprisingly thorough explanation of the
 emotional realities of what living through the pandemic was like. It touches on
