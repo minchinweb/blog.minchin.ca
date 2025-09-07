@@ -90,7 +90,7 @@ expect that the further you get from the traditional 8 to 5 start and end
 times, the cheaper the rental rates will be (due to lower demand).
 
 **Guess 3**: Bosses will get more requests for slightly offset start and end
-times, to arraign commuting.
+times, to arrange commuting.
 
 Like with kids delivered to school by self-driving cars, a question arises of
 what to do during the workday with your self-driving car. "Regular" parking

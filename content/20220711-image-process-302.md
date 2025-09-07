@@ -28,7 +28,7 @@ This post actually covers three releases:
   also removed (official) support for Python 3.6, which isn't supported by
   Pillow 9.
 - **v3.0.1** fixes function calls that will be deprcated by Pillow v10,
-  scheduled to be released in about a year from now. These changes probrobably
+  scheduled to be released in about a year from now. These changes probably
   make the plugin incompatible with versions of Pillow before v9.1.0.
 - **v3.0.2** bumps the lowest officially supported version of Pillow to v9.1.0
   and (preemptively) adds support for v10.
