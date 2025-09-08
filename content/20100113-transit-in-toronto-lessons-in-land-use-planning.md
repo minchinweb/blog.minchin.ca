@@ -3,7 +3,7 @@ Date: 2010-01-13 12:56
 Modified: 2014-04-17 10:56
 Author: Wm. Minchin
 Tags: Essays, Land-Use Planning, Series:Social Commentary, Toronto
-Category: Essays
+Category: Essays, public transit
 Slug: transit-in-toronto-lessons-in-land-use-planning
 
 ## Abstract
