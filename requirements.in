@@ -11,12 +11,11 @@ minchin.pelican.plugins.summary >= 1.2.0
 minchin.pelican.readers.microblog
 pelican != 4.9.0
 pelican-alias
-# pelican-comment-system
 pelican-extended-sitemap
 # pelican-minify  # breaks jquery
 pelican-neighbors
 pip-tools >= 6.8
-seafoam >= 2.9.0
+seafoam >= 2.13.0
 typogrify
 webassets >= 0.12.1
 

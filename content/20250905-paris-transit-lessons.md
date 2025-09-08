@@ -264,7 +264,7 @@ taken from Paris, and places where Paris can be held up as a model.
     drove from Dieppe to here, and then rode the train into Paris to visit for
     the day.*
 
-## Conclustion
+## Conclusion
 
 Paris is a delightful city that I enjoy visiting again and again, and the
 public transit system is always one of my highlights. While I have high hopes
