@@ -126,6 +126,8 @@ pyproject-hooks==1.2.0
     #   pip-tools
 python-dateutil==2.9.0.post0
     # via pelican
+pytz==2025.2
+    # via -r requirements.in
 pyyaml==6.0.2
     # via webassets
 rich==14.1.0

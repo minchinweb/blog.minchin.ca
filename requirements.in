@@ -21,6 +21,8 @@ webassets >= 0.12.1
 
 # on Termux (included by default on Windows)
 tzdata  # otherwise, via Pelican
+# on GitHub Actions (on Linux), bur `extended_sitemap` plugin
+pytz
 
 # for beautifulsoup
 lxml
