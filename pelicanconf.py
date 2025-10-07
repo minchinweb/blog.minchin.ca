@@ -105,6 +105,7 @@ PAGE_SAVE_AS = PAGE_URL
 MENUITEMS = (
     ("Blog", SITEURL + "/", "fa fa-fw fa-pencil"),
     ("Genealogy", "https://genealogy.minchin.ca/", "glyphicon glyphicon-tree-deciduous"),
+    ("Pour Nos Enfants", "https://cscn.minchin.ca/", "fa fa-fw fa-school"),
     ("My Projects", "http://minchin.ca/projects/", "fa fa-fw fa-flask"),
     ("Search", "http://minchin.ca/search/", "fa fa-fw fa-search"),
     ("About", "http://minchin.ca/about/", "fa fa-fw fa-info-circle"),
