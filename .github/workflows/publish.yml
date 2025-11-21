@@ -27,7 +27,7 @@ jobs:
 
       - name: Install Python
         id: pthon-install
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           # supported versions: https://github.com/actions/python-versions/releases
           python-version: 3.12
