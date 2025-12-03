@@ -53,7 +53,8 @@ jobs:
         run: invoke build --carefully --publish
 
       - name: Upload Artifact (Built Site)
-        uses: actions/upload-pages-artifact@v3
+        # can't upgrade to v4, as I need to upload "hidden" (dot) files
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: ./output
 
