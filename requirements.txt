@@ -105,8 +105,10 @@ pelican-alias==1.1
     # via -r requirements.in
 pelican-extended-sitemap==1.2.3
     # via -r requirements.in
-pelican-image-process==3.3.0
-    # via seafoam
+pelican-image-process @ git+https://github.com/pelican-plugins/image-process.git@skip-bad-images
+    # via
+    #   -r requirements.in
+    #   seafoam
 pelican-jinja-filters==2.1.1
     # via seafoam
 pelican-neighbors==1.2.0

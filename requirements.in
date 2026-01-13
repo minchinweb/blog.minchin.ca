@@ -19,6 +19,9 @@ seafoam >= 2.13.0
 typogrify
 webassets >= 0.12.1
 
+# otherwise via seafoam; need v3.3.1 (currently unreleased)
+git+https://github.com/pelican-plugins/image-process.git@skip-bad-images #egg=pelican-image-process
+
 # on Termux (included by default on Windows)
 tzdata  # otherwise, via Pelican
 # on GitHub Actions (on Linux), bur `extended_sitemap` plugin

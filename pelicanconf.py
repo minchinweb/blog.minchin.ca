@@ -154,6 +154,7 @@ CATEGORY_IMAGES = {
     "minchin-dot-ca-theme": "images/2016/minchindotca-theme-article.png",
     "pelican-plugins": "images/2020/pelican_logo.png",
     "covid": "images/2020/coronavirus-cdc-645x645.jpg",
+    "strathcona-power": "images/2026/strathcona-power-v2.4-detailed.svg",
 }
 
 
