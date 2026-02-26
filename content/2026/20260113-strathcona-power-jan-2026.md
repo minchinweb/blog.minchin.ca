@@ -159,13 +159,13 @@ These are a number of things that I plan to do to move the business forward:
   applications), and start the connection process.
 - look into automation for the business. The first two targets are signing up
   for (or building) a CRM, and building a quote calculator.
-- review the company's online presence: review the website and establish social
+- review the Company's online presence: review the website and establish social
   media accounts.
 
 ## How You Can Help
 
 Ultimately, the business isn't going to be a success by itself, and I'm hoping
-that you will come along for the ride and help with the company's rise! There
+that you will come along for the ride and help with the Company's rise! There
 are many way your can help:
 
 - if you live in Alberta, [sign up](https://strathconapower.ca/signup) for
