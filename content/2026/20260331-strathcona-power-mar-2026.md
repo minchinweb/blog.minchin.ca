@@ -44,7 +44,7 @@ be our floating price, which tends to be lower than most of the fixed options
 I've been able to offer.
 
 If you have a solar system, please [move
-over]((https://strathconapower.ca/signup)!
+over](https://strathconapower.ca/signup)!
 
 ### Forward Pricing
 
@@ -59,7 +59,7 @@ for these data centers going to come from? Well, [it
 seems](https://edmontonjournal.com/opinion/columnists/lorne-gunter-alberta-right-to-insist-ai-data-centre-proposals-include-their-own-power-supply)
 that the answer is "Bring-Your-Own-Power" (BYOP??), as in the data centers will
 be required to build sufficient generation on-site to support their own needs.
-I expect much of this will be natural gas powered[^2026033103], which may drive
+I expect much of this will be natural gas powered,[^2026033103] which may drive
 up natural gas prices once these start going online. Their possible effect on
 electricity pricing is harder to read, as on one hand, below capacity data
 centers are likely to sell their "extra" power on to the grid (driving prices
@@ -84,7 +84,7 @@ more retailing business, but the timelines are long.
 One success I've seen is I've set up a
 [Facebook](https://www.facebook.com/people/Strathcona-Power/61586616562661/)
 and a [LinkedIn](http://www.linkedin.com/company/strathconapower/) page, and am
-cross-posting these update there!
+cross-posting these updates there!
 
 ## Generation Progress
 
@@ -103,7 +103,7 @@ installation costs are now projected to be ~5x what I'd initially planned for.
 I'm looking for ways to bring that down, but fear this site may be indefinitely
 shelved as non-economical.
 
-For the next tranche (of ~70 kW of generation), the paperwork is moving along,
+For the second tranche (of ~70 kW of generation), the paperwork is moving along,
 but is still in process, and I expect will be for at least another two months.
 These sites also suffer from oversized installation costs, but the math may
 still pencil out here.
@@ -137,25 +137,24 @@ build some sort of advertising program to get there.
 For generation, I've realized that my first sites may not pencil out, and so am
 considering other options.
 
-ARR is particularly low at this point because I'm paying onboarding costs for
-new retailing sites, and on the generation side, I'm paying interest on upfront
-installation costs, but it isn't generated any income yet. But at least we're
-positive this month!
+ARR is particularly low at this point because on the generation side I'm paying
+interest on upfront installation costs, but it isn't generated any income yet.
+But at least we're positive this month!
 
 ## Review of Last Month's Plans
 
 - **roll out of new logo.** -- complete
 - **review of the Company's online presence.** -- incomplete, although I've
   laid some groundwork for this.
-- **complete funding and connection agreements for the next tranche (~70 kW) of
-  generation sites.** -- progress, but incomplete. But mostly waiting for
+- **complete funding and connection agreements for the second tranche (~70 kW)
+  of generation sites.** -- progress, but incomplete. But mostly waiting for
   beaucratic processes to play out at this point.
 
 ## Plans for the Coming Month
 
 - complete the relaunch of the website.
-- complete the funding and connection agreements for tranche two, or at least
-  have everything done on my side.
+- complete the funding and connection agreements for the second tranche, or at
+  least have everything done on my side.
 - make a go-no go for the third tranche generation site I'm currently looking
   at. And take next steps: if a go, have a purchase offer presented, and if
   no-go, have the next candidate site picked out.
@@ -167,7 +166,7 @@ Power](https://strathconapower.ca). If you live in Alberta, please [sign
 up](https://strathconapower.ca/signup) for electricity and natural gas, or send
 me your bill (to
 [William@StrathconaPower.ca](mailto:william@strathconapower.ca)) and I can run
-a bill comparison.
+a bill comparison. If you've already signed up, tell a friend!
 
 Till next month,  
 -- William, *El Presidente* of Strathcona Power
