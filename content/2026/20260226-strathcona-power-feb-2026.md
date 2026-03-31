@@ -25,7 +25,7 @@ Our pricing for February:
 
 | Term                  |     Electricity | Trend                                   | Natural Gas | Trend                                   |
 | --------------------- | --------------: | :-------------------------------------- | ----------: | :-------------------------------------- |
-| Floating[^2023022501] | ~5.1 &cent;/kWh | <i class="fa-solid fa-arrow-right"></i> |   ~$3.24/GJ | <i class="fa-solid fa-arrow-down"></i>  |
+| Floating[^2026022501] | ~5.1 &cent;/kWh | <i class="fa-solid fa-arrow-right"></i> |   ~$3.24/GJ | <i class="fa-solid fa-arrow-down"></i>  |
 | 1 year Fixed          | 8.19 &cent;/kWh | <i class="fa-solid fa-arrow-up"></i>    |    $3.69/GJ | <i class="fa-solid fa-arrow-up"></i>    |
 | 2 year Fixed          | 8.39 &cent;/kWh | <i class="fa-solid fa-arrow-down"></i>  |    $3.99/GJ | <i class="fa-solid fa-arrow-right"></i> |
 | 3 year Fixed          | 9.69 &cent;/kWh | <i class="fa-solid fa-arrow-up"></i>    |    $3.99/GJ | <i class="fa-solid fa-arrow-right"></i> |
@@ -33,7 +33,7 @@ Our pricing for February:
 
 One of the more interesting developments in the broader industry (although not
 directly related to retail pricing, yet anyway), is a multi-million dollar sale
-of a "connection allotment".[^2023022502] When you want to connect a big
+of a "connection allotment".[^2026022502] When you want to connect a big
 project (like an AI data center) to the grid, there's an approval process (that
 can take years in "normal" times). However, with the current AI-driven boom,
 there's demand for permission to connect 21,100 MW of new load to the grid
@@ -48,15 +48,17 @@ I think for those dealing with this, the Bitcoin craze of a few years back is
 still top of mind. The concern with Bitcoin mines, like AI data centers, are
 looking for huge amounts of power, which require a serious build out of
 transmission infrastructure. Traditionally, that infrastructure has been paid
-for by the wire companies,[^2023022503] and they collect fees over the next ~20
+for by the wire companies,[^2026022503] and they collect fees over the next ~20
 years to get paid back. But are the Bitcoin mines and the AI data centers going
 to be here for 20+ years? or will they evaporate when their hardware is
 obsolete is 4 years? and who gets stuck with the bill then?
 
+<a id="datacenter-generation"></a>
+
 Also floating around is the question of where 21,100 MW of new power
 generation going to come from? The approval process and building of new plants
 is measured in years, and we're talking about more than doubling the current
-generation fleet.[^2023022504]
+generation fleet.[^2026022504]
 
 
 ## Retailing Progress
@@ -74,14 +76,14 @@ plus "daily fees"; the new agreement added a "tax" on daily fees, and so I've
 moved it all into the *monthly fee*, which isn't similarly "taxed", plus I hope
 this is clearer pricing all around. The pricing is the same overall (after the
 20% hike in my fees from the new service agreement), but presented
-differently.[^2023011305] I wonder if people look much at the monthly fees, or
+differently.[^2026022505] I wonder if people look much at the monthly fees, or
 just the per kWh and per GJ pricing.
 
 I also undertook work to gather my historical averages for my floating prices;
 why the Backend doesn't provide these is beyond me (in theory, they already
 have the data!). I was surprised to discover that the vast majority of
 customers are on fixed prices. Historic pricing for electricity came in at
-6.2&cent;/kWh[^2023022506] and for natural gas at $2.87/GJ.[^2023022507]
+6.2&cent;/kWh[^2026022506] and for natural gas at $2.87/GJ.[^2026022507]
 
 I sadly haven been able to launch any new marketing efforts, as my time has
 been spent with generation paperwork, and haven't even figured out where best
@@ -96,7 +98,7 @@ generation capacity, to complement the retail sales.
 <!-- PELICAN_BEGIN_SUMMARY -->
 Most of this past month has been spent working on getting more generation
 online. It is a frustratingly long process, with far too much
-paperwork.<!-- read more -->[^2023022508]
+paperwork.<!-- read more -->[^2026022508]
 
 For my first 10 kW of generation, I have the connection and purchase agreements
 in place, and am now waiting for the loan agreement to come through (hopefully)
@@ -126,7 +128,7 @@ different financial model than what I've been using for the 10 kW sites....
 | ----------------- | ------------------ | ------------------------------------------ | ---------------- |
 | Site Count        | 86 / 120           | <i class="fa-solid fa-arrow-up"></i> 5 / 7 | end of July 2026 |
 | Generation Online | 0 / 50 kW          | <i class="fa-solid fa-arrow-right"></i>    |                  |
-| ARR[^2023011309]  | (negative) / $100k | <i class="fa-solid fa-arrow-down"></i>     |                  |
+| ARR[^2026022509]  | (negative) / $100k | <i class="fa-solid fa-arrow-down"></i>     |                  |
 
 To hit the initial site count KPI, I only need to add an additional ~7
 sites/month. Future targets will be more demanding, but for now, this is my
@@ -175,15 +177,15 @@ Till next month,
 -- William, *El Presidente* of Strathcona Power
 
 
-[^2023022501]: This is approximate January retail pricing. Floating prices can
+[^2026022501]: This is approximate January retail pricing. Floating prices can
     and do change month to month, and vary slightly between wire areas.
-[^2023022502]: CBC has [some
+[^2026022502]: CBC has [some
     coverage](https://www.cbc.ca/news/canada/calgary/albertas-ai-data-centre-boom-unleashes-gold-rush-for-electricity-allotments-9.7089179),
     but all the companies involved have super generic sounding names, so it's
     hard to know that the final project will actually look like.
-[^2023022503]: Fortis and Atco are the biggest two, but also Epcor, Enmax, etc.
-[^2023022504]: currently ~16,000 MW
-[^2023011305]: There is a whole tangent here about pricing clarity. Matt
+[^2026022503]: Fortis and Atco are the biggest two, but also Epcor, Enmax, etc.
+[^2026022504]: currently ~16,000 MW
+[^2026022505]: There is a whole tangent here about pricing clarity. Matt
     Stoller's BIG newsletter, which focuses on the economic harms of
     monopolies, did a [recent
     article](https://www.thebignewsletter.com/p/the-one-simple-thing-that-makes-the)
@@ -211,12 +213,12 @@ Till next month,
     UCA Helps is supposed to provide something here, but two months ago when I
     was reviewing prices, the cheapest gas price was *negative*, so please
     forgive me my hesitancy that they'll be the ones to resolve this.
-[^2023022506]: over the last nine months, which is all the history I have.
-[^2023022507]: over the last three years.
-[^2023022508]: and I remind myself, I picked these projects for how
+[^2026022506]: over the last nine months, which is all the history I have.
+[^2026022507]: over the last three years.
+[^2026022508]: and I remind myself, I picked these projects for how
     comparatively straightforward their paperwork is. I expect the process to
     take ~12 weeks, compared to 5 years for a "traditional" generation
     connection process.
-[^2023011309]: *Annualized Recurring Revenue*. Basically an assumption of annual
+[^2026022509]: *Annualized Recurring Revenue*. Basically an assumption of annual
     revenue, based on last month's topline income. This combines both the
     retailing and the generation arms of the Company.

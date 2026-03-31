@@ -39,7 +39,7 @@ Our pricing for January:
 
 | Term                  |     Electricity | Natural Gas |
 | --------------------- | --------------: | ----------: |
-| Floating[^2023011301] | ~5.1 &cent;/kWh |   ~$4.07/GJ |
+| Floating[^2026011301] | ~5.1 &cent;/kWh |   ~$4.07/GJ |
 | 1 year Fixed          | 7.99 &cent;/kWh |    $3.49/GJ |
 | 2 year Fixed          | 8.49 &cent;/kWh |    $3.99/GJ |
 | 3 year Fixed          | 9.29 &cent;/kWh |    $3.99/GJ |
@@ -67,12 +67,12 @@ these update. My initial target is to hit 120 sites by the end of June.
 
 One of my biggest challenges with these new Performance Thresholds is that they
 are more than I expect to hit with just me talking to people myself. I will
-need to develop a plan for a semi- or fully automated marketing.[^2023011302]
+need to develop a plan for a semi- or fully automated marketing.[^2026011302]
 
 I'm also trying to build a generation wing of the business as well. The theory
 is that my margin selling power to the grid is about the same as selling it to
 retail customers, but I can bring on generation more directly and in higher
-volumes that retail customers.[^2023011303] This is something I started
+volumes that retail customers.[^2026011303] This is something I started
 seriously looking into about five years ago, trying to find the right
 opportunity. About three months ago, a friend came to me with an option that
 clicked! I expect this generation will be a significant portion of income once
@@ -105,7 +105,7 @@ month I'll need to review our pricing structure in light of this agreement
 update.
 
 I've also finalized our new logo, and have started rolling it out. The old logo
-was just a word mark, and the new logo adds a coat of arms[^2023011304] to it.
+was just a word mark, and the new logo adds a coat of arms[^2026011304] to it.
 This is something I'd envisioned doing when the initial logo was put together,
 so it's nice to see it live! The wild rose represent Alberta and the lighting
 bolt represents the power that the company sells.
@@ -132,7 +132,7 @@ hope to make this a regular thing.
 | ----------------- | ------------- | ---------------- |
 | Site Count        | 81 / 120      | end of June 2026 |
 | Generation Online | 0 / 50 kW     |                  |
-| ARR[^2023011305]  | $2.6k / $100k |                  |
+| ARR[^2026011305]  | $2.6k / $100k |                  |
 
 To hit the initial site count KPI, I only need to add an additional ~7
 sites/month. Future targets will be more demanding, but for now, this is my
@@ -200,18 +200,18 @@ Talk to you in a month!
 <!-- better link to Strathcona Power website -->
 <!-- Cross link to kick off post -->
 
-[^2023011301]: This is approximate December retail pricing. I have another
+[^2026011301]: This is approximate December retail pricing. I have another
     source that lists previous 30 day pricing (so mid-December to
     mid-January) at 5.69 &cent;/kWh for electricity and $3.39/GJ for natural
     gas. Floating prices can and do change month to month, and vary slightly
     between wire areas.
-[^2023011302]: I know, this is the dream of every marketer, isn't it. To add to
+[^2026011302]: I know, this is the dream of every marketer, isn't it. To add to
     the "fun", I have what I've discovered is a very tight budget for my
     marketing program.
-[^2023011303]: For example, while a customer might use 800 kWh in a month (on
+[^2026011303]: For example, while a customer might use 800 kWh in a month (on
     average), I hope to bring on generation in chunks of 7,200 kWh/month.
-[^2023011304]: Technically, just the *escutcheon* (i.e. the "shield").
-[^2023011305]: *Annualized Recurring Revenue*. Basically an assumption of annual
+[^2026011304]: Technically, just the *escutcheon* (i.e. the "shield").
+[^2026011305]: *Annualized Recurring Revenue*. Basically an assumption of annual
     revenue, based on last month's topline income. This combines both the
     retailing and the generation arms of the company.
 
