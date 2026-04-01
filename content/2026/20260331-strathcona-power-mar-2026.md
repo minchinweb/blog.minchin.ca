@@ -127,12 +127,13 @@ picking the site and having it start to make money.
 | ARR[^2026033104]  | ~$3.9k / $100k | <i class="fa-solid fa-arrow-up"></i>        |                     |
 
 In other circumstances, I'd feel very good about the site count growth, but the
-new Backend agreement has fairly demanding growth requirements, that take away
+new Backend agreement has fairly demanding growth requirements that take away
 much of the celebration. But one good news is I'm close enough to my first site
 count target (of 120 sites by the end of July) that I'm comfortable shifting my
 focus to the next target (of 420 sites by the end of next January). This later
-target will required ~5x the previous monthly growth target, and I need to
-build some sort of advertising program to get there.
+target will required ~5x the previous monthly growth target (at 33 new sites
+per month, vs the previous 7), and I need to build some sort of advertising
+program to get there.
 
 For generation, I've realized that my first sites may not pencil out, and so am
 considering other options.
