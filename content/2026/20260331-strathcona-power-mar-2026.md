@@ -36,7 +36,7 @@ Our pricing for April:
 
 ### New Solar Pricing
 
-Once exciting change is that I was able to launch my new solar price, at 35
+One exciting change is that I was able to launch my new solar price, at 35
 &cent;/kWh![^2026033102]
 
 As well, your "low" solar rate (which is just one of our other prices) can now
@@ -156,7 +156,7 @@ But at least we're positive this month!
 - complete the relaunch of the website.
 - complete the funding and connection agreements for the second tranche, or at
   least have everything done on my side.
-- make a go-no go for the third tranche generation site I'm currently looking
+- make a go/no go for the third tranche generation site I'm currently looking
   at. And take next steps: if a go, have a purchase offer presented, and if
   no-go, have the next candidate site picked out.
 

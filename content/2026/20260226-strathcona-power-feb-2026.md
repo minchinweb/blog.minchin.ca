@@ -5,7 +5,7 @@ tags: build in public, Strathcona Power
 
 
 This is a continuation of series of posts on building up Strathcona Power.
-(Read [last month's update]({filename}20260113-strathcona-power-jan-2026.md)
+(Read [last month's update]({filename}20260114-strathcona-power-jan-2026.md)
 here.)
 
 To recap, I'm building a boutique energy retailer ([Strathcona
@@ -60,6 +60,8 @@ generation going to come from? The approval process and building of new plants
 is measured in years, and we're talking about more than doubling the current
 generation fleet.[^2026022504]
 
+
+<a id="retailing-progress"></a>
 
 ## Retailing Progress
 

@@ -45,7 +45,8 @@ Our pricing for January:
 | 3 year Fixed          | 9.29 &cent;/kWh |    $3.99/GJ |
 | 5 year Fixed          | 9.89 &cent;/kWh |    $3.99/GJ |
 
-Overall, I continue to suggest floating for electricity. For natural gas, the 1 year fixed price looks like the way to go.
+Overall, I continue to suggest floating for electricity. For natural gas, the 1
+year fixed price looks like the way to go.
 
 
 ## The Lay of the Land
