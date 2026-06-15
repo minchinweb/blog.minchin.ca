@@ -38,7 +38,7 @@ Paris proper.
 
 Paris, in its structure as a city is also fundamentally different from American
 cities. Where many American cities have suffered from years of "White Flight"
-that hollowed out their centres and sent those with means feeling to the far
+that hollowed out their centres and sent those with means fleeing to the far
 suburbs, Paris' demographics are almost the opposite! The locals told me that
 Paris proper is almost whole inhabited by *les cadres* (literally, "the
 frames"; the term refers to the managerial class), while the working class,
@@ -300,8 +300,8 @@ term "research trip", I would be happy to oblige!
     km out  (and not the edge of the developed area); Melun, to the south, is
     47 km; EuroDisney, to the east, is 37 km; Charles De Gaulle airport, to the
     north, is 35 km.
-[^2025090806]: indeed, the nearest translate in French for "the projects" (i.e.
-    of American cities) is *les banlieu*, or literally, "the suburbs".
+[^2025090806]: indeed, the nearest translation in French for "the projects"
+    (i.e. of American cities) is *les banlieu*, or literally, "the suburbs".
 [^2025090807]: the most famous is probably the *Avenue des Champs-Élysées*.
 [^2025090808]: *Reseau Express Regional*; the Paris commuter trains, built
     starting in the 1960's.
@@ -320,17 +320,17 @@ term "research trip", I would be happy to oblige!
     source for this, but the magnitude of the numbers is more important that
     their actual values, which change year to year.
 [^2025090813]: By way of example, EuroDisney and the RER A extension to it were
-    built in coordinated manor, in part to encourage development in the east of
-    the Paris region, which had hitherto been relatively undeveloped.
+    built in a coordinated manner, in part to encourage development in the east
+    of the Paris region, which had hitherto been relatively undeveloped.
     EuroDisney thus provides an anchor for the RER line.
 [^2025090814]: One personal example from my last trip to France was we visited
     Étretat on the Normandy coast. On a previous visit, we had parked in a lot
     on the cliffs above the town to the east, near Chapelle Notre-Dame de la
-    Garde and the monument to *L'Oiseau Blanc*, which had now closed. Asking
-    around, it was now expected to park on the other side of town and hike
-    across town and up the cliffs; I guess the locals got tired of the traffic.
-    One guide my friend read actually suggested renting bikes in the next town
-    over and cycling over to avoid the parking issues in Étretat.
+    Garde and the monument to *L'Oiseau Blanc*, a lot which had now closed.
+    Asking around, it was now expected to park on the other side of town and
+    hike across town and up the cliffs; I guess the locals got tired of the
+    traffic. One guide my friend read actually suggested renting bikes in the
+    next town over and cycling over to avoid the parking issues in Étretat.
 [^2025090815]: per
     [Wikipedia](https://en.wikipedia.org/w/index.php?title=Demographics_of_Paris),
     the 1881 population of Paris proper was 2,269,023 and the 2017 population

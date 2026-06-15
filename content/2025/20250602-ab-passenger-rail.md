@@ -1,9 +1,14 @@
 title: Alberta Passenger Rail Master Plan
 date: 2025-06-02 12:16:11 -0600
+updated: 2026-06-14T18:48:39-0600
 tags: Alberta, passenger rail, trains
 
 This is the collection of my thoughts about the proposed/in-progress Alberta
 Passenger Rail Master Plan.
+
+**Update**: [June 2026
+thoughts]({filename}/2026/20260614-ab-passenger-rail-ii.md) upon the release of
+the actual report.
 
 ## Personal Background (of note, France)
 
@@ -17,10 +22,10 @@ that the French system works because it is a *system* built up over decades.
 
 Another huge thing France had going for it as that as it built out its high
 speed network, France had never stopped using passenger trains, and so there
-were still all the inner city train stations were still there[^2025060202].
-French high speed trains were explicitly designed to be able to travel on
-"regular" rails to make use of these stations (and to cover any other gaps in
-the high speed rail network).
+were all the inner city train stations still in use and centrally
+located[^2025060202]. French high speed trains were explicitly designed to be
+able to travel on "regular" rails to make use of these stations (and to cover
+any other gaps in the high speed rail network).
 
 France also does a good job of connecting the different "modes" of public
 transit: long distance train travel, regional train travel, commuter rail,
@@ -85,15 +90,15 @@ population of 10 million, or roughly double today's numbers[^2025060209]; with
 this many people, the Province and its infrastructure demands look remarkably
 different.
 
-Today, both Edmonton and Calgary are both cities of about a million, so we're
-talking about adding five more "cities" that size to the Province. If the
-Province wanted to, it could direct that growth to certain spots: e.g. pushing
-Calgary (or Edmonton) to a city of 6 million, or pushing someplace like Red
-Deer, Lethbridge, or Fort MacMurray to a million each. The advantage of being
-proactive at that scale is you could build a French-style city or suburb (built
-around public transit) from scratch. Housing, both availability and cost, is
-already becoming more and more a concern[^2025060210], and this could be a way
-to get further in front of it.
+Today, both Edmonton and Calgary are both cities (proper) of about a million,
+so we're talking about adding five more "cities" that size to the Province. If
+the Province wanted to, it could direct that growth to certain spots: e.g.
+pushing Calgary (or Edmonton) to a city of 6 million, or pushing someplace like
+Red Deer, Lethbridge, or Fort MacMurray to a million each. The advantage of
+being proactive at that scale is you could build a French-style city or suburb
+(built around public transit) from scratch. Housing, both availability and
+cost, is already becoming more and more a concern[^2025060210], and this could
+be a way to get further in front of it.
 
 Assuming the Province is less proactive and everywhere just sort of grew
 proportional to current sizes, there still would be lots of new infrastructure
