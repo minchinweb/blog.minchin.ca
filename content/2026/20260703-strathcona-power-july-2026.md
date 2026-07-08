@@ -34,7 +34,7 @@ Our pricing for July:
 
 | Term                  |     Electricity | Trend                                   | Natural Gas | Trend                                   |
 | --------------------- | --------------: | :-------------------------------------- | ----------: | :-------------------------------------- |
-| Floating[^2026070802] | ~2.7 &cent;/kWh | <i class="fa-solid fa-arrow-down"></i>  |   ~$2.65/GJ | <i class="fa-solid fa-arrow-uo"></i>    |
+| Floating[^2026070802] | ~2.7 &cent;/kWh | <i class="fa-solid fa-arrow-down"></i>  |   ~$2.65/GJ | <i class="fa-solid fa-arrow-up"></i>    |
 | 1 year Fixed          | 6.99 &cent;/kWh | <i class="fa-solid fa-arrow-right"></i> |    $3.69/GJ | <i class="fa-solid fa-arrow-right"></i> |
 | 2 year Fixed          | 7.39 &cent;/kWh | <i class="fa-solid fa-arrow-right"></i> |    $3.89/GJ | <i class="fa-solid fa-arrow-up"></i>    |
 | 3 year Fixed          | 8.19 &cent;/kWh | <i class="fa-solid fa-arrow-up"></i>    |    $3.89/GJ | <i class="fa-solid fa-arrow-right"></i> |
