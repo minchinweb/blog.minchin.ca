@@ -35,7 +35,7 @@ jobs:
           cache-dependency-path: 'requirements.txt'
 
       - name: Upgrade Pip, etc
-        run: python -m pip install pip setuptools wheel --upgrade
+        run: python -m pip install pip==26.1.2 setuptools wheel --upgrade
 
       - name: Install invoke, etc
         run: pip install invoke minchin.text
