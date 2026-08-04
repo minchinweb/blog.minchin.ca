@@ -128,6 +128,17 @@ DISPLAY_PAGES_ON_MENU = False
 # }
 
 
+CATEGORY_REGEX_SUBSTITUTIONS = [
+    (r"\.\.", "dotdot"),  # needed to keep a "phantom" category from throwing an error
+
+    # defaults
+    (r"[^\w\s-]", ""),   # remove non-alphabetical/whitespace/"-" chars
+    (r"(?u)\A\s*", ""),  # strip leading whitespace
+    (r"(?u)\s*\Z", ""),  # strip trailing whitespace
+    (r"[-\s]+", "-"),    # reduce multiple whitespace or "-" to single "-"
+]
+
+
 # Theme Related
 SEAFOAM_DEV_MODE = True
 OPTIMIZE_IMAGES_DEV_MODE = True
