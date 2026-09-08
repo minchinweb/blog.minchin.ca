@@ -33,7 +33,7 @@ The San Diego Temple.
 San Diego (all day) (movie CAD$15)
 
 *Today -- $15 -- 0 hours -- 0 km*
-***Total -- CAD $517.34 -- 27:20 hours -- 2777km***
+***Total -- CAD $517.34 -- 27:20 hours -- 2,777km***
 
 ---
 

@@ -71,8 +71,8 @@ Roberts ID (supper $9.20) -- 7 to 7:45pm -- 220,613km
 McCammon (gas $27.41) -- 9pm -- 220,755km  
 Arrive Provo UT -- 11:23pm -- 221,045km
 
-*Today -- CAD$6.46, US$140.10 -- 11:25 hours -- 1178km*  
-***Total -- CAD$222.90 -- 16:40 hours -- 1712km***
+*Today -- CAD$6.46, US$140.10 -- 11:25 hours -- 1,178km*  
+***Total -- CAD$222.90 -- 16:40 hours -- 1,712km***
 
 ---
 

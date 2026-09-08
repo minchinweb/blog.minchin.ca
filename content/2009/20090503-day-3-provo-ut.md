@@ -26,7 +26,7 @@ conversion factor between the two.)
 Provo (all day) (lunch ~$7)
 
 *Today -- US$7 -- 0 hours -- 0km*  
-***Total -- CAD$231.87 -- 16:40 hours -- 1712km***
+***Total -- CAD$231.87 -- 16:40 hours -- 1,712km***
 
 ---
 

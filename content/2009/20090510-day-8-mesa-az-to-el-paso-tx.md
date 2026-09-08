@@ -76,12 +76,12 @@ The Arizona landscape.
 
 Leave Mesa -- 2:09pm -- 222,945km  
 Really leave Mesa (after checking out the Temple) -- 2:47pm  
-Tucson(CES Fireside) -- 4:45pm to 7:50pm -- 223,135km  
+Tucson (CES Fireside) -- 4:45pm to 7:50pm -- 223,135km  
 Willcox (gas $22.51) -- 9pm -- 223,265km  
 Arrive El Paso TX -- about 12:20am (PDT) -- 223,651km  
 
 *Today -- US$22.51 -- 5:30 hours -- 706km*  
-***Total -- CAD$618.51 -- 38:50 -- 4130km***
+***Total -- CAD$618.51 -- 38:50 -- 4,130km***
 
 ---
 

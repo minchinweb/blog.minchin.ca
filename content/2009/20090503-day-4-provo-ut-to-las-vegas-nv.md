@@ -86,7 +86,7 @@ North Las Vegas (gas $35.00) -- 10:15pm -- 221,696km
 Las Vegas (hotel room $65.95)
 
 *Today -- US$188.20 -- 4:30 hours -- 485km*  
-***Total -- CAD$473.15 -- 21:10 hours -- 2197km***
+***Total -- CAD$473.15 -- 21:10 hours -- 2,197km***
 
 ---
 

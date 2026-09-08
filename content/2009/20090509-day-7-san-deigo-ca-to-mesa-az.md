@@ -73,7 +73,7 @@ Buckeye (gas $24, snacks $2.03) -- 5:30pm -- 222,856km
 Arrive Mesa -- 6:30pm (PDT) -- 222,945km
 
 *Today -- US$56.40 -- 6 hours -- 647km*  
-***Total -- CAD$589.65 -- 33:20 hours -- 3424km***
+***Total -- CAD$589.65 -- 33:20 hours -- 3,424km***
 
 ---
 

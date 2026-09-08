@@ -62,8 +62,8 @@ Tye (gas $26.25, supper $9) -- 6:05 to 7:08pm -- 224,371km
 I-20 Rest Stop -- 8pm -- 224,553km  
 Arrive Little Elm -- 10:43pm -- 224,719km
 
-*Today -- US$111.84 -- 9:10 hours -- 1068km*  
-***Total -- CAD$761.89 -- 48 hours -- 5198km***
+*Today -- US$111.84 -- 9:10 hours -- 1,068km*  
+***Total -- CAD$761.89 -- 48 hours -- 5,198km***
 
 ---
 

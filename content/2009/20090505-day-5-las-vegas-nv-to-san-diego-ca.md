@@ -77,7 +77,7 @@ Victorville (gas $28) -- 4:40pm -- 222,114km
 Arrive Valley Center -- 7pm -- 222,298km
 
 *Today -- US$61.77 -- 6:10 hours -- 580km*  
-***Total - CAD$552.34 -- 27:20 hours -- 2777km***
+***Total - CAD$552.34 -- 27:20 hours -- 2,777km***
 
 ---
 

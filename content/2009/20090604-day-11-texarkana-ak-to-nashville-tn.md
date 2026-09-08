@@ -78,7 +78,7 @@ Jackson (gas $20.25, Whoopers $3.93) -- 9:10pm -- 225,739km
 arrive Nashville TN (hotel $46.24) -- 11:20pm -- 225,945km
 
 *Today -- US$109.72 -- 8h35 -- 810km*  
-***Total -- CAD$1074.60 -- 61h15 -- 6420km***
+***Total -- CAD$1,074.60 -- 61h15 -- 6,420km***
 
 ---
 

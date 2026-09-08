@@ -75,8 +75,8 @@ Beachwood OH (sidetrip...) -- 10:05 to 10:35pm -- 226,817km
 Pennsylvania Welcome Center -- 11:45pm -- 226,924km  
 arrive Eria PA -- about midnight (CDT) -- 226,972km
 
-*Today -- US$58.85 -- 10h05 -- 1027km*  
-***Total -- CAD$1150.05 -- 71h20 -- 7447km***
+*Today -- US$58.85 -- 10h05 -- 1,027km*  
+***Total -- CAD$1,150.05 -- 71h20 -- 7,447km***
 
 ---
 

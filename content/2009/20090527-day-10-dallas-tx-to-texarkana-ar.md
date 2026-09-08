@@ -73,7 +73,7 @@ get back on I-30 -- 11:35pm -- 225,094km
 arrive Texarkana AR (hotel $38) -- 12:00am -- 225,135km  
 
 *Today -- US$134.19 -- 4h40 -- 412km*  
-***Total -- CAD$933.93 -- 52h40 -- 5610km***
+***Total -- CAD$933.93 -- 52h40 -- 5,610km***
 
 ---
 

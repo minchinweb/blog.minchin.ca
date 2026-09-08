@@ -72,7 +72,7 @@ Quebec -- 9:10pm -- 227,714km
 Arrive at Montreal -- 10:05pm -- 227,789km
 
 *Today -- US$82.43 CAD$2.75 -- 8h20 -- 817km*  
-***Total -- CAD$1258.48 -- 79h40 -- 8,264km***
+***Total -- CAD$1,258.48 -- 79h40 -- 8,264km***
 
 ---
 
