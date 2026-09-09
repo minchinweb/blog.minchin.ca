@@ -23,10 +23,9 @@ slightly lower than last month (again), but tighter (to fixed prices) at ~$1/GJ
 below fixed prices. In short, I remain a fan of both and hope you are signed up
 on floating rates.
 
-Fixed prices are relatively low, but have falled across the board this month.
-If you want to lock in, now would probably be a good time. Natural gas is
-getting very cheap for shorter terms, and so if you want to look in the 1 year
-rate for the winter, now would be a good time.
+Fixed prices are relatively low, and have fallen across the board this month.
+Natural gas is getting very cheap for shorter terms, and so if you want to look
+in the 1 year rate for the winter, now would be a good time.
 
 Our pricing for September:
 
