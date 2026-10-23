@@ -35,7 +35,7 @@ wheel
 
 # security forced updated
 jinja2 >= 3.1.3  # otherwise, via Pelican
-Pillow >= 10.2.0
+Pillow >= 13.0.0
 Pygments >= 2.7.4  # otherwise, via Pelican
 lxml >= 4.9.1
 wheel >= 0.38.1
